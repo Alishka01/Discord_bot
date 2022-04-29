@@ -7,7 +7,7 @@ from translate import Translator
 
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 bot.remove_command('help')
-TOKEN = "OTY2NzEzNDg0OTQ5NzI5MzUx.YmFwFw.TFyxojHl1pL7vtVCR29XHBHwZhI"
+TOKEN = "OTY2NzEzNDg0OTQ5NzI5MzUx.YmFwFw.yvaiO55eG51ug_5pDIDhs-KoEME"
 
 
 @bot.event  # Подключение бота
